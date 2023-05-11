@@ -1,0 +1,2 @@
+# Breast Cancer Diagnosis
+ Utilizing logistic regression, this innovative project diagnoses breast cancer, a prevalent disease impacting women globally. By analyzing extensive patient data and corresponding diagnoses, the model accurately predicts breast cancer presence or absence. Early detection facilitated by this approach allows timely medical interventions, leading to enhanced patient outcomes.
